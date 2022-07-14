@@ -1,0 +1,22 @@
+{
+  "name": "complex",
+  "version": "1.0.0",
+  "description": "A lexical parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfamiyeh/complex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfamiyeh/complex/issues"
+  },
+  "homepage": "https://github.com/danielfamiyeh/complex#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
